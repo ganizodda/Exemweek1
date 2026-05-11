@@ -262,7 +262,22 @@
     width: 400px;
     height: 300px;
 }
+.sec11{
+    width: 80%;
+    height: 400px;
+    box-shadow: 0px 0px 40px grey;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.g3{
+    width: 460px;
+    height: 300px;
 
+}
 
 
 
@@ -382,6 +397,12 @@
             width: 90%;
             height: 300px;
         }
+    }
+    .sec11{
+        width: 97%;
+        height: 1100px;
+        flex-wrap: wrap;
+        text-align: center;
     }
 
 }
