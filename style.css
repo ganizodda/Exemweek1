@@ -276,7 +276,16 @@
 .g3{
     width: 460px;
     height: 300px;
-
+}
+.imgs{
+    width: 85%;
+    height: 180px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
 }
 
 
@@ -403,6 +412,11 @@
         height: 1100px;
         flex-wrap: wrap;
         text-align: center;
+    }
+    .imgs{
+        width: 100%;
+        flex-wrap: wrap;
+        height: 950px;
     }
 
 }
