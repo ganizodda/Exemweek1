@@ -44,5 +44,9 @@
         .a1{
             display: none;
         }
+        .a3{
+            width: 100%;
+            flex-wrap: wrap;
+        }
     }
 }
